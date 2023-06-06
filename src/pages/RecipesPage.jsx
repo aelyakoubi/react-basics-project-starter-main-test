@@ -7,7 +7,7 @@ import "../index.css";
 
 export const RecipesPage = () => {
   const [userRecipe, setUserRecipe] = useState();
-  const greeting = "Winc Recipe Checker";
+  const greeting = "Winc Recipe Checker testing2";
 
   return (
     <div className="app">
